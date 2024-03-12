@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
 - 📫 Contato: contato.miguelfontes@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
   ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mifontez&show_icons=true&theme=dracula)
