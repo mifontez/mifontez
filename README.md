@@ -6,8 +6,8 @@
 - 😄 Pronomes: ele/dele
 
 ##
-  ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMEHERE&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMEHERE&layout=compact)
+  ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mifontez&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mifontez&layout=compact)
   
   ## Tecnologias que eu uso no meu dia
   
