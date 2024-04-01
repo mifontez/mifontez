@@ -1,7 +1,7 @@
 ### Olá! eu sou o Miguel Fontes, desenvolvedor de software!
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React
 - 📫 Contato: contato.miguelfontes@gmail.com
 - 😄 Pronomes: ele/dele
 
