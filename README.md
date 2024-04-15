@@ -1,5 +1,7 @@
 ### Olá! eu sou o Miguel Fontes, desenvolvedor de software!
 
+![snake gif](https://github.com/mifontez/mifontez/blob/output/github-contribution-grid-snake.gif)
+
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
 - 📫 Contato: contato.miguelfontes@gmail.com
