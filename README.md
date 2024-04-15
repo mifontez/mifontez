@@ -1,9 +1,10 @@
-### Olá! eu sou o Miguel Fontes, desenvolvedor de software!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robotto&pause=1000&color=5ECCFF&random=false&width=435&lines=Oi!+%F0%9F%91%8B;Sou+o+Miguel+Fontes!;">
+</h1>
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+- 🌱 Estudando React/JS
 - 📫 Contato: contato.miguelfontes@gmail.com
-- 😄 Pronomes: ele/dele
 
 ##
   ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mifontez&show_icons=true&theme=dracula)
