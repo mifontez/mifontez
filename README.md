@@ -6,9 +6,12 @@
 - 🌱 Estudando React/JS
 - 📫 Contato: contato.miguelfontes@gmail.com
 
-##
-  ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=mifontez&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mifontez&layout=compact)
+## 📊 GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=mifontez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mifontez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mifontez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=tilakjain123&icon=0&color=6)](https://visitcount.itsvg.in)
   
   ## Tecnologias que eu uso no meu dia
   
@@ -19,7 +22,7 @@
   <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-  ##
+  ## ⚡ Contato:
  
 <div> 
   <a href="https://instagram.com/_mfontez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
