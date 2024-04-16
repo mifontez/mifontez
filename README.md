@@ -24,4 +24,15 @@
     <br>
 </div>
 
+<h2 align="center">⚡Contato⚡</h2>
+<br>
+<div align="center">
+  <a href="https://instagram.com/_mfontez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguelfontes7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
+  </a>
+</div>
+
 <!-- ![snake gif](https://github.com/mifontez/mifontez/blob/output/github-contribution-grid-snake.gif) -->
